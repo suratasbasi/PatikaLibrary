@@ -1,5 +1,4 @@
 # PatikaLibrary
-# PatikaLibrary
 
 ## Proje Özeti
 `PatikaLibrary` projesi, kitaplarla ilgili bilgileri temsil eden ve işleyen bir sınıf kütüphanesidir. Bu proje, kitap adını, yazar adını, yazar soyadını, sayfa sayısını, yayınevini ve kayıt tarihini depolayan bir sınıf (`PatikaLibrary`) içermektedir. Kullanıcı, bu sınıf aracılığıyla kitap bilgilerini gösterebilir ve sınıfın iki farklı yapıcı metodu (constructor) ile nesne oluşturabilir.
